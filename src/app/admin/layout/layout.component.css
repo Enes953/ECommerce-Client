@@ -1,0 +1,9 @@
+.admin-container {
+  width: 99%;
+  height: 655px;
+  margin: 5px;
+  border: 1px solid #555;
+}
+.admin-left {
+  width: 15%;
+}

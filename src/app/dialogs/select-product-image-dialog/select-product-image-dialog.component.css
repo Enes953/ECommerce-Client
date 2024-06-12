@@ -1,0 +1,24 @@
+.product-image-card {
+    max-width: 250px;
+    float: left;
+    margin-left: 35px;
+  }
+  
+.product-header-image {
+    background-image: url('https://material.angular.io/assets/img/examples/shiba1.jpg');
+    background-size: cover;
+  }
+  
+  .product-image-card{
+    margin-top: 20px;
+  }
+  img {
+    width: 200px;
+    height: 150px;
+  }
+  mat-card-header {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+  }
+  
